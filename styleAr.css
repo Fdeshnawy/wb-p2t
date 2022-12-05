@@ -1,0 +1,53 @@
+@media only screen and (max-width: 1200px) {
+    .iteck-btn {
+        font-size: 16px !important;
+    }
+}
+
+.iteck-heading {
+    text-align: right !important;
+    padding-bottom: 0 !important;
+    padding-right: 5%;
+}
+
+.iteck-btn {
+    margin-right: 7px;
+    margin-right: 0 !important;
+}
+
+.marg {
+    margin: 2% 0 !important;
+}
+
+.title {
+    text-align: center !important;
+    padding-left: 0 !important;
+}
+
+.displayTxt {
+    text-align: right !important;
+}
+
+.displayTxt p {
+    text-align: right !important;
+    width: 100% !important
+}
+
+.spec p {
+    font-size: 16px !important;
+}
+
+.unorderedLi {
+    font-size: 18px !important;
+}
+
+.unorderedLi li {
+    text-align: right !important;
+}
+
+.iconz {
+    font-size: 44px;
+    color: #007aff;
+    /* float: left; */
+    padding: 0 18px;
+}
